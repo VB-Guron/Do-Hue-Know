@@ -4,9 +4,8 @@
 
 The game is a product of a research paper entitled "An Interactive Color Identifying Game for Children utilizing Voice Recognition that implements Dynamic Time Warping AY2022-2023"
 
-## Abstract 
 <details>
-<summary>How do I dropdown?</summary>
+## <summary>Abstract</summary>
 <br>
 Shows like Blues Clues and Dora The Explorer have always been adored by the children
 due to their unique way of keeping their attention. The said shows would ask its viewers simple
@@ -35,7 +34,7 @@ optimal length of time in which they are focused enough to properly play the gam
 
 ## Read about the Paper
 
-[Documentation](https://drive.google.com/file/d/1x5ev5kWOo7A4hv5PSQDoKF7HlyQtz7DF/view?usp=sharing)
+[Research Paper](https://drive.google.com/file/d/1x5ev5kWOo7A4hv5PSQDoKF7HlyQtz7DF/view?usp=sharing)
 
 
 ## Authors
