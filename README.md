@@ -4,7 +4,7 @@
 
 The game is a product of a research paper entitled "An Interactive Color Identifying Game for Children utilizing Voice Recognition that implements Dynamic Time Warping AY2022-2023"
 
-##Abstract
+## Abstract
 <details>
 <summary>What's the reason about the games creation?</summary>
 <br>
