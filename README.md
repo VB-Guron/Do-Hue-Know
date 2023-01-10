@@ -53,7 +53,7 @@ optimal length of time in which they are focused enough to properly play the gam
 
 
 ## 🛠 Skills
-C#, Unity, Python
+C#, Unity, and Python
 ## UI of the Application
 
 ![App Screenshot](https://github.com/VB-Guron/DoHueKnow/blob/master/Assets/Screenshot/001.png)
