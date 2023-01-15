@@ -47,7 +47,7 @@ optimal length of time in which they are focused enough to properly play the gam
 - [Von Bryan Guron](https://github.com/VB-Guron)
 - Frederico Dulnuan
 - Stephen Tan
-- Jeanne Parayno
+- [Jeanne Parayno](https://github.com/hawknajj)
 
 
 
